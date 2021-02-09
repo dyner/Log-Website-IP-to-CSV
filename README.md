@@ -1,2 +1,2 @@
-# Log-Website-IP-to-CSV
+# Log Website IP to CSV
 Useful for logging dynamic IP changes.
