@@ -10,6 +10,6 @@ pip3 install yaml, socket
 
 # Run Python Script
 ```python
-cd fqdnIP
+cd Log-Website-IP-to-CSV
 python3 main.py
 ```
