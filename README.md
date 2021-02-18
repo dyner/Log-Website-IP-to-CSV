@@ -5,7 +5,8 @@ Useful for logging dynamic IP changes.
 - install python3
 - install python libs
 ```python
-pip3 install yaml, socket
+pip3 install yaml
+pip3 install socket
 ```
 
 # Run Python Script
